@@ -1,0 +1,6 @@
+com\resource\PessoaResource.class
+Demo1Application.class
+com\modelo\Pessoa.class
+com\repository\PessoaRepository.class
+com\resource\Demo1Application.class
+com\resources\Demo1Application.class
